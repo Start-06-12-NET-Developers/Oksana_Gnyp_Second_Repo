@@ -1,0 +1,7 @@
+C:\Users\ognyp\source\repos\CS\CS\bin\Debug\CS.exe.config
+C:\Users\ognyp\source\repos\CS\CS\bin\Debug\CS.exe
+C:\Users\ognyp\source\repos\CS\CS\bin\Debug\CS.pdb
+C:\Users\ognyp\source\repos\CS\CS\obj\Debug\Lesson1.csproj.AssemblyReference.cache
+C:\Users\ognyp\source\repos\CS\CS\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\ognyp\source\repos\CS\CS\obj\Debug\CS.exe
+C:\Users\ognyp\source\repos\CS\CS\obj\Debug\CS.pdb
