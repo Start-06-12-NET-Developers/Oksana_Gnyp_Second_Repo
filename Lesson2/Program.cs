@@ -32,7 +32,7 @@ namespace Lesson2
 
             #region Task 6
 
-            User user = new User("atma", "Anna", "Zuban", 19, DateTime.Today); ;
+            User user = new User("atma", "Anna", "Zuban", 19, DateTime.Today);
             user.GetUserInfo();
 
             #endregion

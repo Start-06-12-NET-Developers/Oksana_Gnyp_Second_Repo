@@ -5,3 +5,10 @@ C:\Users\ognyp\source\repos\CS\CS\obj\Debug\Lesson1.csproj.AssemblyReference.cac
 C:\Users\ognyp\source\repos\CS\CS\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
 C:\Users\ognyp\source\repos\CS\CS\obj\Debug\CS.exe
 C:\Users\ognyp\source\repos\CS\CS\obj\Debug\CS.pdb
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\bin\Debug\CS.exe.config
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\bin\Debug\CS.exe
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\bin\Debug\CS.pdb
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\obj\Debug\Lesson1.csproj.AssemblyReference.cache
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\obj\Debug\CS.exe
+D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\CS\obj\Debug\CS.pdb
