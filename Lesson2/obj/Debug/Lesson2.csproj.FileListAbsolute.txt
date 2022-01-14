@@ -5,10 +5,3 @@ C:\Users\ognyp\source\repos\CS\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReferenc
 C:\Users\ognyp\source\repos\CS\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
 C:\Users\ognyp\source\repos\CS\Lesson2\obj\Debug\Lesson2.exe
 C:\Users\ognyp\source\repos\CS\Lesson2\obj\Debug\Lesson2.pdb
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\bin\Debug\Lesson2.exe.config
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\bin\Debug\Lesson2.exe
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\bin\Debug\Lesson2.pdb
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReference.cache
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\obj\Debug\Lesson2.exe
-D:\Ментор\06.12 (900) .Net Dev\Оксана Гнип\Базовый 1\Lesson2\obj\Debug\Lesson2.pdb

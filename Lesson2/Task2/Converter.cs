@@ -13,7 +13,7 @@ namespace Lesson2
         public Converter(double usd = 0, double euro = 0, double rub = 0)
         {
             this.usd = usd;
-            this.euro = euro;
+            this.euro = euro; ;
             this.rub = rub;
             uan = new UAH();
         }

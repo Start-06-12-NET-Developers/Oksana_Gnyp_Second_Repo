@@ -1,0 +1,7 @@
+C:\Users\ognyp\source\repos\CS\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\ognyp\source\repos\CS\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\ognyp\source\repos\CS\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\ognyp\source\repos\CS\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
+C:\Users\ognyp\source\repos\CS\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\ognyp\source\repos\CS\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\ognyp\source\repos\CS\Lesson4\obj\Debug\Lesson4.pdb
