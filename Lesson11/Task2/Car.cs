@@ -27,5 +27,10 @@
             this.model = model;
             this.number = number;
         }
+
+        public override string ToString()
+        {
+            return Model + "," + Number;
+        }
     }
 }

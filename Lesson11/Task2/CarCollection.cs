@@ -9,7 +9,7 @@ namespace Lesson11
 
         private static List<T> cars = new List<T>();
 
-        public string this[int index] => ToString();
+        public string this[int index] => cars[index].ToString();
         
         public int CarsCount => cars.Count;
 
@@ -45,6 +45,7 @@ namespace Lesson11
                 return true;
             }
 
+            Reset();
             return false;
         }
 
@@ -56,11 +57,6 @@ namespace Lesson11
         public void Clear()
         {
             cars = new List<T>();
-        }
-
-        public override string ToString()
-        {
-            return cars[index].Model + "," + cars[index].Number;
         }
     }
 }

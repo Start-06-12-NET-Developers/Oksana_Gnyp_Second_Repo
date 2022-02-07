@@ -15,8 +15,10 @@ namespace Lesson11
 
             CarCollections<Car<string, int>> carsCollection = new CarCollections<Car<string, int>>();
             carsCollection.AddCars(tesla, porshe, bmw, new Car<string, int>("Audi", 2015));
+
             var IsTesla = carsCollection.Any(item => item.Model == "tesla");
-           
+
+            Console.WriteLine(carsCollection[0]);
             Console.WriteLine(IsTesla);
 
             #endregion
