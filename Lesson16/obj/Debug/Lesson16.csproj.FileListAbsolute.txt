@@ -1,0 +1,7 @@
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\bin\Debug\Lesson16.exe.config
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\bin\Debug\Lesson16.exe
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\bin\Debug\Lesson16.pdb
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\obj\Debug\Lesson16.csproj.AssemblyReference.cache
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\obj\Debug\Lesson16.csproj.CoreCompileInputs.cache
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\obj\Debug\Lesson16.exe
+C:\Users\ognyp\Desktop\Oksana_Gnyp_Second_Repo\Lesson16\obj\Debug\Lesson16.pdb

@@ -18,8 +18,8 @@ namespace Lesson14
             Console.WriteLine(dailyPlan[1]);
             Console.WriteLine(dailyPlan.Count);
 
-            dailyPlan.CustomForEach();
-
+            new Action(dailyPlan.CustomForEach)?.Invoke();
+            
             #endregion
 
             #region Task3
